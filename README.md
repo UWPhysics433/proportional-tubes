@@ -1,2 +1,2 @@
 # proportional-tubes
-Files for analysis of teh proportional tubes experiment
+Files for analysis of the proportional tubes experiment
